@@ -1,9 +1,6 @@
 :root {
   --save-btn: #5eb1a4;
   --save-btn-hover: #309281;
-  --textarea-present: #dad7b2;
-  --textarea-past: #c5d8cf;
-  --textarea-future: #9bc3c0;
   --textarea-color: #485152;
   --text-color: #39484B;
   --bg-color: #E9EEE6;
@@ -53,10 +50,6 @@ textarea {
   white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid var(--bg-color);
-}
-
-.text-col {
-  background-color: var(--textarea-present);
 }
 
 .hour-col {
